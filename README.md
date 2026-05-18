@@ -16,3 +16,8 @@ Group 2
 - **Name:** Jinky Lopez
 - **Email:** jinky.a.lopez@accenture.com
 - **Learning for Today:** Never upload files to GitHub from the local machine. All GitHub push/comments should only come from BAS.
+
+## Contributor Bien Lara
+- **Name:** Bien Lara
+- **Email:** bien.gilzon.c.lara@accenture.com
+- **Learning for Today:** Make sure to change branch in BAS away from main before pushing any update back to repo.
